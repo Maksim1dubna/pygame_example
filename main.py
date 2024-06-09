@@ -1,3 +1,8 @@
+# python -m venv homework40venv
+# deactivate
+# homework40venv\Scripts\activate
+# pip install numpy==1.26.4
+# pip install pygame==2.5.2
 import numpy as np
 import pygame as pg
 
